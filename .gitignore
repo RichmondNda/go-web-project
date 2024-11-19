@@ -1,0 +1,19 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Folders
+.idea/
+.vscode/
+.DS_Store
+vendor/
+*.log
+
+# Go modules
+/go.sum
