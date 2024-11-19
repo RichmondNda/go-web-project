@@ -6,7 +6,7 @@ A simple web application built with Go and Fiber that renders a "Hello, World!" 
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/hello-world-app.git
+    git clone https://github.com/RichmondNda/hello-world-app.git
     ```
 2. Navigate to the project directory:
     ```sh
